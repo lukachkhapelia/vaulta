@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vaulta", "vaulta\vaulta.csproj", "{6940EE8E-752E-405E-ABB0-0376A9F6C492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6940EE8E-752E-405E-ABB0-0376A9F6C492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6940EE8E-752E-405E-ABB0-0376A9F6C492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6940EE8E-752E-405E-ABB0-0376A9F6C492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6940EE8E-752E-405E-ABB0-0376A9F6C492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9224C567-7FF8-4B8F-AC1D-EDA8D402AC36}
+	EndGlobalSection
+EndGlobal
